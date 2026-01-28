@@ -1,5 +1,5 @@
 {
-  "name": "live-quiz-system",
+  "name": "Toxic-live-quizz",
   "version": "1.0.0",
   "main": "server/index.js",
   "scripts": {
